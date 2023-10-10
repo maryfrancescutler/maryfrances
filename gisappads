@@ -1,0 +1,16 @@
+{
+
+	"ads": {
+		"Banner_ironSource": "DefaultBanner",
+		"Inter_ironSource": "DefaultInterstitial",
+		"reword_ironSource": "DefaultRewarded",
+
+		"ironSource_app_key": "1bf621c7d",
+
+		"GetApp_Url": "https://play.google.com/store/apps/details?id=com.klibadyalepointcom.gismap",
+		"urlrateus": "https://play.google.com/store/apps/details?id=com.klibadyalepointcom.gismap",
+		"Privicyurl": "https://rentry.co/ms57k"
+
+	}
+
+}
