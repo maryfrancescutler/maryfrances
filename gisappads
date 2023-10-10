@@ -3,7 +3,7 @@
 	"ads": {
 		"Banner_ironSource": "DefaultBanner",
 		"Inter_ironSource": "DefaultInterstitial",
-		"reword_ironSource": "",
+		"reword_ironSource": "DefaultRewarded",
 
 		"ironSource_app_key": "1bf621c7d",
 
