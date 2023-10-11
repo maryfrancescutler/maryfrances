@@ -1,0 +1,16 @@
+{
+
+	"ads": {
+		"Banner_ironSource": "DefaultBanner",
+		"Inter_ironSource": "DefaultInterstitial",
+		"reword_ironSource": "DefaultRewarded",
+
+		"ironSource_app_key": "1bfaebea5",
+
+		"GetApp_Url": "https://play.google.com/store/apps/details?id=com.gis.appadvice",
+		"urlrateus": "https://play.google.com/store/apps/details?id=com.gis.appadvice",
+		"Privicyurl": "https://klibadyalepointcom.blogspot.com/2023/10/privacy-policy.html"
+
+	}
+
+}
